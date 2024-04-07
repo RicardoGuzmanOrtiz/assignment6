@@ -1,0 +1,11 @@
+{
+  "name": "timeofday",
+  "version": "1.0.0",
+  "description": "shows the time of day",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Guzman Ortiz",
+  "license": "ISC"
+}
